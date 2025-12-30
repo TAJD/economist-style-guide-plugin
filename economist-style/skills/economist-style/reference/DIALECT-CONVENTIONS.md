@@ -63,7 +63,7 @@ The Economist uses -ise endings (following British convention).
 | travelling | traveling |
 | cancelled | canceled |
 | modelling | modeling |
-| focussed | focused |
+| focused | focused |
 | judgement | judgment |
 | grey | gray |
 | cheque | check (payment) |
@@ -185,8 +185,8 @@ Lowercase unless part of a proper noun:
 ### Titles
 
 Capitalise formal titles before names:
-- Prime Minister Rishi Sunak
-- But: Rishi Sunak, the prime minister
+- President Joe Biden
+- But: Joe Biden, the president
 
 ### Government and Institutions
 

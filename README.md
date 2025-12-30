@@ -24,11 +24,9 @@ Perfect for:
 
 ```bash
 # In Claude Code
-/plugin marketplace add YOUR_USERNAME/economist-style-plugins
-/plugin install economist-style@economist-style-plugins
+/plugin marketplace add TAJD/economist-style-guide-plugin
+/plugin install economist-style@economist-style-guide-plugin
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ## Usage
 
@@ -93,6 +91,6 @@ Tom Dickson
 
 ## Support
 
-- Issues: [GitHub Issues](https://github.com/YOUR_USERNAME/economist-style-plugins/issues)
+- Issues: [GitHub Issues](https://github.com/TAJD/economist-style-guide-plugin/issues)
 - Documentation: [economist-style/README.md](economist-style/README.md)
 - Claude Code Docs: https://code.claude.com/docs

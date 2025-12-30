@@ -14,6 +14,17 @@ Apply these principles to all written content, including markdown files, HTML, c
 3. **Brevity**: Choose concise over verbose expressions
 4. **Dialect awareness**: Match the document's existing spelling and conventions (British, American, etc.)
 
+## Tone: The "Do Nots"
+
+The Economist's introduction explicitly prohibits these:
+
+- **Do not be stuffy**: Use everyday speech, not the language of lawyers or bureaucrats
+- **Do not be hectoring or arrogant**: Those who disagree are not necessarily stupid
+- **Do not be too pleased with yourself**: Let analysis speak; avoid self-congratulation
+- **Do not be too chatty**: Maintain professional distance
+- **Do not be too didactic**: Guide, don't lecture
+- **Do not be sloppy**: Edit ruthlessly; cut anything superfluous
+
 ## Analysis Workflow
 
 When reviewing text, follow this sequence:

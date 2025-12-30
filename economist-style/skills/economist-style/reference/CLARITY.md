@@ -105,3 +105,52 @@ Or: "Some economists argue inflation is rising" (if it's a viewpoint)
 - Supporting evidence follows
 - Each paragraph should advance the argument
 - Typical paragraph: 3-5 sentences
+
+## The Conversational Test
+
+Ask yourself: "Would I use this word talking to a friend?"
+
+| Formal | Conversational |
+|--------|----------------|
+| obtain | get |
+| manufacture | make |
+| relinquish | give up |
+| ascertain | find out |
+| sufficient | enough |
+| additional | more |
+| regarding | about |
+| numerous | many |
+| utilise | use |
+| demonstrate | show |
+
+## Americanisms to Avoid
+
+The Economist flags these American expressions:
+
+| Avoid | Use Instead |
+|-------|-------------|
+| meet with | meet |
+| outside of | outside |
+| figure out | work out |
+| deliver on (a promise) | keep |
+| reach out to | contact |
+| consult with | consult |
+| protest (transitive) | protest against |
+| appeal (a decision) | appeal against |
+| write (someone) | write to |
+
+## Inclusive Language
+
+Use gender-neutral terms:
+
+| Avoid | Use Instead |
+|-------|-------------|
+| mankind | humankind, humanity |
+| man-made | artificial, synthetic |
+| manpower | workforce, staff |
+| chairman | chair, chairperson |
+| fireman | firefighter |
+| policeman | police officer |
+| stewardess | flight attendant |
+
+Respect individuals' preferred pronouns and avoid stereotyping groups.
