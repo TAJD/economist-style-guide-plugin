@@ -1,0 +1,13 @@
+{
+  "name": "economist-style-plugins",
+  "owner": {
+    "name": "Tom Lucidor"
+  },
+  "plugins": [
+    {
+      "name": "economist-style",
+      "source": "./economist-style",
+      "description": "Apply The Economist style guide - clarity, precision, brevity, dialect-aware"
+    }
+  ]
+}
