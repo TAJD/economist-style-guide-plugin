@@ -1,0 +1,114 @@
+name: Validate Plugin Installation
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Validate plugin structure
+        run: |
+          echo "Checking required files..."
+
+          # Check marketplace manifest
+          if [ ! -f ".claude-plugin/marketplace.json" ]; then
+            echo "ERROR: Missing .claude-plugin/marketplace.json"
+            exit 1
+          fi
+
+          # Check plugin manifest
+          if [ ! -f "economist-style/.claude-plugin/plugin.json" ]; then
+            echo "ERROR: Missing economist-style/.claude-plugin/plugin.json"
+            exit 1
+          fi
+
+          # Check main skill file
+          if [ ! -f "economist-style/skills/economist-style/SKILL.md" ]; then
+            echo "ERROR: Missing economist-style/skills/economist-style/SKILL.md"
+            exit 1
+          fi
+
+          # Check reference files
+          for file in CLARITY.md PRECISION.md DIALECT-CONVENTIONS.md COMMON-ERRORS.md; do
+            if [ ! -f "economist-style/skills/economist-style/reference/$file" ]; then
+              echo "ERROR: Missing reference/$file"
+              exit 1
+            fi
+          done
+
+          echo "All required files present"
+
+      - name: Validate JSON syntax
+        run: |
+          echo "Validating marketplace.json..."
+          cat .claude-plugin/marketplace.json | jq .
+
+          echo "Validating plugin.json..."
+          cat economist-style/.claude-plugin/plugin.json | jq .
+
+      - name: Validate SKILL.md frontmatter
+        run: |
+          echo "Checking SKILL.md frontmatter..."
+
+          # Check file starts with ---
+          if ! head -1 economist-style/skills/economist-style/SKILL.md | grep -q "^---$"; then
+            echo "ERROR: SKILL.md must start with ---"
+            exit 1
+          fi
+
+          # Check frontmatter has name field
+          if ! grep -q "^name:" economist-style/skills/economist-style/SKILL.md; then
+            echo "ERROR: SKILL.md frontmatter missing 'name' field"
+            exit 1
+          fi
+
+          # Check frontmatter has description field
+          if ! grep -q "^description:" economist-style/skills/economist-style/SKILL.md; then
+            echo "ERROR: SKILL.md frontmatter missing 'description' field"
+            exit 1
+          fi
+
+          echo "SKILL.md frontmatter valid"
+
+      - name: Test plugin loading with Claude Code
+        if: ${{ env.ANTHROPIC_API_KEY != '' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          echo "Testing plugin loading..."
+
+          # Create test file with style issues
+          echo "The data was analyzed by the team and it was found that there were many significant problems." > test.md
+
+          # Run Claude with plugin and verify it can identify style issues
+          claude -p "Review test.md for style issues. List any passive voice or vague language you find." \
+            --plugin-dir ./economist-style \
+            --allowedTools "Read" \
+            --max-turns 3 \
+            --output-format text
+
+      - name: Summary
+        run: |
+          echo "Plugin validation complete!"
+          echo ""
+          echo "Plugin: economist-style"
+          echo "Version: $(cat economist-style/.claude-plugin/plugin.json | jq -r .version)"
+          echo ""
+          echo "To install:"
+          echo "  /plugin marketplace add TAJD/economist-style-guide-plugin"
+          echo "  /plugin install economist-style@economist-style-guide-plugin"
