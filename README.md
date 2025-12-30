@@ -89,7 +89,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## Author
 
-Tom Lucidor
+Tom Dickson
 
 ## Support
 

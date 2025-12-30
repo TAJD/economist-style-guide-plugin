@@ -167,4 +167,4 @@ MIT License - feel free to adapt for your organisation's style guide.
 
 ## Author
 
-Tom Lucidor
+Tom Dickson
