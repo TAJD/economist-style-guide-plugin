@@ -65,6 +65,49 @@ Only if the user explicitly requests dialect checking, or if there are inconsist
 ### 6. Common Errors
 For frequently encountered mistakes, read `reference/COMMON-ERRORS.md`
 
+### 7. Punctuation Check
+For detailed punctuation rules (commas, semicolons, dashes, quotation marks), read `reference/PUNCTUATION.md`
+
+Quick checks:
+- Verify comma usage (serial comma, restrictive clauses)
+- Check dash and hyphen usage
+- Ensure consistent quotation mark style
+
+### 8. Numbers and Figures
+For number formatting guidelines, read `reference/NUMBERS.md`
+
+Quick checks:
+- Spell out numbers one to nine, use numerals for 10+
+- Verify percentage formatting (% symbol, percentage points vs percentages)
+- Check date and currency formatting
+
+### 9. Structure Review
+For document organisation guidelines, read `reference/STRUCTURE.md`
+
+Quick checks:
+- Each paragraph has a clear topic sentence
+- Lead/opening hooks the reader
+- Logical flow from paragraph to paragraph
+- Conclusion adds value (not just summary)
+
+### 10. Tone Assessment
+For voice and register guidance, read `reference/TONE.md`
+
+Quick checks:
+- Authoritative but not arrogant
+- Avoid excessive adjectives and intensifiers
+- Neutral language on contested issues
+- No preaching or lecturing
+
+### 11. Abbreviations (on-demand)
+If the document contains abbreviations or acronyms, read `reference/ABBREVIATIONS.md`
+
+### 12. Capitalisation (on-demand)
+If there are capitalisation questions (titles, institutions, geographic terms), read `reference/CAPITALIZATION.md`
+
+### 13. Special Contexts (on-demand)
+For quotations, foreign words, lists, or tables, read `reference/SPECIAL-CONTEXTS.md`
+
 ## Output Format
 
 When providing feedback:

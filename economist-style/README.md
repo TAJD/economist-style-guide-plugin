@@ -136,10 +136,17 @@ economist-style-plugin/
 │   └── economist-style/
 │       ├── SKILL.md             # Main skill instructions
 │       └── reference/
-│           ├── CLARITY.md       # Detailed clarity rules
+│           ├── CLARITY.md       # Passive voice, jargon, complexity
 │           ├── PRECISION.md     # Weasel words & fillers
 │           ├── DIALECT-CONVENTIONS.md  # British/American conventions
-│           └── COMMON-ERRORS.md # Frequent mistakes
+│           ├── COMMON-ERRORS.md # Frequent mistakes, sensitivity
+│           ├── PUNCTUATION.md   # Commas, dashes, quotation marks
+│           ├── NUMBERS.md       # Numerals, percentages, dates
+│           ├── STRUCTURE.md     # Paragraphs, leads, conclusions
+│           ├── TONE.md          # Voice, register, adjective restraint
+│           ├── ABBREVIATIONS.md # Acronyms, Latin terms
+│           ├── CAPITALIZATION.md # Titles, institutions, geographic
+│           └── SPECIAL-CONTEXTS.md # Foreign words, quotations, lists
 └── README.md
 ```
 
@@ -156,6 +163,7 @@ Improvements welcome! Focus areas:
 
 - [The Economist Style Guide](https://www.economist.com/styleguide/introduction)
 - [Claude Code Documentation](https://code.claude.com/docs)
+- [More about the implementation](https://tom-dickson.com/blog/teaching-claude-economist-style/)
 
 ## License
 
@@ -163,7 +171,7 @@ MIT License - feel free to adapt for your organisation's style guide.
 
 ## Version
 
-1.0.0 - Initial release
+1.2.0 - Added punctuation, numbers, structure, tone, abbreviations, capitalization, special contexts, gender-neutral language, and sensitivity guidelines
 
 ## Author
 

@@ -279,3 +279,113 @@ Maintain consistency in lists and comparisons:
 **Correct**:
 - ✓ The plan aims to reduce costs, improve efficiency, and boost innovation
 - ✓ She enjoys reading, writing, and travelling
+
+## Gender-Neutral Language
+
+### Avoid Generic Masculine
+
+**Outdated**:
+- ❌ The businessman should review his accounts
+- ❌ Every worker must submit his timesheet
+- ❌ Man has conquered space
+
+**Better options**:
+- Pluralise: "Businesspeople should review their accounts"
+- Use "they": "Every worker must submit their timesheet"
+- Reword: "Humanity has conquered space" or "Humans have reached space"
+
+### Job Titles
+
+| Outdated | Preferred |
+|----------|-----------|
+| Chairman | Chair, chairperson |
+| Businessman | Business executive, business owner |
+| Fireman | Firefighter |
+| Policeman | Police officer |
+| Stewardess | Flight attendant |
+| Manpower | Workforce, staff |
+| Mankind | Humanity, humankind |
+
+### Titles and Honorifics
+
+- Use "Ms" unless a woman has expressed a preference for "Mrs" or "Miss"
+- Avoid unnecessary identification of gender: "the doctor" not "the lady doctor"
+- Use professional titles equally: If using "Dr Smith" for a man, use "Dr Jones" for a woman
+
+### Singular They
+
+The singular "they" is acceptable for:
+- Unknown or unspecified individuals: "Each applicant should submit their CV"
+- Non-binary individuals who use they/them pronouns
+
+## Sensitivity and Inclusive Language
+
+### People-First Language
+
+Put the person before the condition:
+
+| Less inclusive | More inclusive |
+|----------------|----------------|
+| The disabled | People with disabilities |
+| Diabetics | People with diabetes |
+| The homeless | People experiencing homelessness |
+| The elderly | Older people, older adults |
+| The mentally ill | People with mental health conditions |
+
+**Exception**: Some communities prefer identity-first language (e.g., "autistic person" preferred by many autistic people). When possible, follow the preference of the group being discussed.
+
+### Race and Ethnicity
+
+- Capitalise racial and ethnic identities: Black, White, Asian, Latino
+- Avoid using "minorities" to mean all non-white people
+- Be specific when possible: "Chinese", "Nigerian", "Mexican" rather than generic "Asian", "African", "Hispanic"
+- Avoid stereotypes and generalisations
+- Do not mention race unless relevant to the story
+
+### Disability
+
+- Avoid euphemisms: "differently abled", "special needs", "handicapable"
+- Use neutral terms: "uses a wheelchair" not "wheelchair-bound" or "confined to a wheelchair"
+- Avoid portraying people with disabilities as inspirational merely for existing
+- Do not describe medical conditions in dramatic terms: "suffering from" → "has" or "lives with"
+
+### Mental Health
+
+| Avoid | Use |
+|-------|-----|
+| Crazy, insane, nuts | [Be specific about behaviour] |
+| Committed suicide | Died by suicide |
+| Schizophrenic (as adjective) | "A person with schizophrenia" |
+| Mentally ill (noun) | People with mental illness |
+
+### Age
+
+- Avoid ageist language: "spry for her age", "still sharp at 80"
+- Use "older people" or "older adults" rather than "the elderly" or "the aged"
+- Avoid assumptions about capability based on age
+- Be precise about age when relevant rather than vague generational labels
+
+### Sexuality and Gender Identity
+
+- Use the terminology individuals prefer for themselves
+- LGBTQ+ is a common umbrella term (note: preferences vary by region and community)
+- Use appropriate pronouns (he, she, they) as indicated
+- "Sexual orientation" not "sexual preference"
+- "Transgender" is an adjective: "a transgender person" not "a transgender" or "transgendered"
+
+### Economic Status
+
+| Avoid | Use |
+|-------|-----|
+| The poor | People with low incomes, people in poverty |
+| Underprivileged | Under-resourced |
+| Third-world | Low-income countries, developing economies |
+| Slum | Informal settlement |
+
+### General Principles
+
+1. **Precision over euphemism**: Be clear and accurate, not vague
+2. **Respect preferences**: Where known, use terms people use for themselves
+3. **Avoid defining people by single characteristics**: "a woman with epilepsy" not "an epileptic woman"
+4. **Update your language**: Preferred terms evolve; stay current
+5. **Focus on relevance**: Only mention characteristics when relevant to the story
