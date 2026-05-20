@@ -6,4 +6,8 @@ updates:
       interval: "weekly"
     groups:
       minor-and-patch:
+        applies-to: version-updates
         update-types: ["minor", "patch"]
+      security-updates:
+        applies-to: security-updates
+        patterns: ["*"]
