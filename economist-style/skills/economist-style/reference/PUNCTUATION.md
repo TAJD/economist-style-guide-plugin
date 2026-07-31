@@ -163,18 +163,18 @@ Hyphenate compound adjectives before a noun:
 - "High-quality research" but "Research of high quality"
 
 ### Prefixes
-Generally do not hyphenate prefixes:
+The Economist retains hyphens in many prefixed words that American style closes up:
 
-| Write | Not |
-|-------|-----|
-| Prewar | Pre-war |
-| Postwar | Post-war |
-| Cooperate | Co-operate |
-| Coordinate | Co-ordinate |
-| Microeconomics | Micro-economics |
-| Macroeconomic | Macro-economic |
+| Economist style | American style |
+|-----------------|----------------|
+| Co-operate | Cooperate |
+| Co-ordinate | Coordinate |
+| Pre-war | Prewar |
+| Post-war | Postwar |
 
-**Exceptions** (hyphenate for clarity):
+In a document written in American English, match the closed forms already in use.
+
+**Always hyphenate** (for clarity):
 - "Re-cover" (cover again) vs "Recover" (get back)
 - "Re-sign" (sign again) vs "Resign" (quit)
 - Before capitals: "Anti-American", "Pro-European"

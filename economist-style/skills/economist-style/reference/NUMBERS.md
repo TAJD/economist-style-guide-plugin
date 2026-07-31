@@ -5,15 +5,15 @@ Numbers convey precision. Handle them consistently to maintain credibility and r
 ## When to Spell Out vs Use Numerals
 
 ### Spell Out
-- Numbers one to nine: "three companies", "five years"
+- Numbers one to ten: "three companies", "ten years"
 - Numbers at the start of sentences: "Twenty people attended" (or rewrite to avoid)
 - Round numbers used loosely: "about a hundred", "thousands of people"
 - Common expressions: "the big three automakers", "the four horsemen"
 
 ### Use Numerals
-- Numbers 10 and above: "12 countries", "250 employees"
+- Numbers 11 and above: "12 countries", "250 employees"
 - Numbers with units: "5km", "3%", "$7m"
-- Ages: "a 6-year-old child", "aged 45"
+- Ages: "aged 45" (ages one to ten follow the spell-out rule: "a six-year-old child")
 - Scores and votes: "won 3-2", "passed 52-48"
 - Addresses: "10 Downing Street"
 - Dates and times (see below)
@@ -61,9 +61,11 @@ In financial contexts, 100 basis points = 1 percentage point:
 
 ### Dates
 
-**British format** (The Economist's default):
-- "1st January 2024" or "January 1st 2024"
-- "1 January 2024" (also acceptable)
+**The Economist's format** — month first, with ordinal:
+- "January 1st 2024", "on April 5th", "since April 5th"
+
+**Other British usage** (acceptable if the document already uses it):
+- "1 January 2024"
 
 **American format**:
 - "January 1, 2024"
@@ -128,14 +130,13 @@ The Economist uses the American billion (1,000,000,000 = 10⁹), not the British
 ## Ordinals
 
 ### When to Use
-- Dates: "1st January", "the 21st century"
+- Dates: "January 1st", "the 21st century"
 - Rankings: "the 3rd largest economy"
 - Sequences: "for the 5th consecutive year"
 
 ### Format
-- Use superscript if available: 1ˢᵗ, 2ⁿᵈ, 3ʳᵈ
-- Or standard: 1st, 2nd, 3rd, 4th
-- Spell out for first through ninth in running text: "the third quarter"
+- Use standard form: 1st, 2nd, 3rd, 4th (no superscript)
+- Spell out for first through tenth in running text: "the third quarter"
 
 ## Ranges and Approximations
 

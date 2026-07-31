@@ -25,7 +25,7 @@ Perfect for:
 ```bash
 # In Claude Code
 /plugin marketplace add TAJD/economist-style-guide-plugin
-/plugin install economist-style@economist-style-guide-plugin
+/plugin install economist-style@economist-style-plugins
 ```
 
 ## Usage
@@ -56,10 +56,11 @@ significant issues affecting many users.
 
 **After**:
 ```
-Analysis revealed three critical issues affecting 847 users (23%).
+The analysis found [specify: how many?] issues affecting 
+[specify: how many?] users.
 ```
 
-Changes: Active voice, removed vagueness, added specifics.
+Changes: Active voice, cut filler, flagged vague claims for specifics (the editor asks; it never invents numbers).
 
 ## Features
 

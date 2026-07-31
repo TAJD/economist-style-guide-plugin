@@ -27,7 +27,7 @@ Capitalise, no full stops:
 - NATO (not N.A.T.O.)
 - UNESCO
 - OPEC
-- Radar, scuba, laser (so common they're now lowercase)
+- Exception: radar, scuba and laser have become ordinary lowercase words
 
 ### Initialisms (Pronounced Letter by Letter)
 Capitalise, no full stops:
@@ -57,6 +57,8 @@ Do not use full stops in abbreviations:
 | etc | etc. |
 | ie | i.e. |
 | eg | e.g. |
+
+**Exceptions**: initials in people's and companies' names take points: "I.M. Pei", "J.C. Penney". A comma follows "ie" ("ie, the largest firms").
 
 ### Capitalisation
 - Most abbreviations: All caps (GDP, IMF, EU)

@@ -77,7 +77,7 @@ Quick checks:
 For number formatting guidelines, read `reference/NUMBERS.md`
 
 Quick checks:
-- Spell out numbers one to nine, use numerals for 10+
+- Spell out numbers one to ten, use numerals from 11
 - Verify percentage formatting (% symbol, percentage points vs percentages)
 - Check date and currency formatting
 

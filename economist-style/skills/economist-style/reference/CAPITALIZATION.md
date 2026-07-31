@@ -31,8 +31,9 @@ Use lower case for titles used generically or after a name:
 | Prime Minister Starmer | The prime minister |
 | Queen Elizabeth | The queen |
 | Pope Francis | The pope |
-| Chairman Powell | The chairman |
 | Dr Smith | The doctor |
+
+**Avoid false titles** for job descriptions: "Jerome Powell, chairman of the Federal Reserve", not "Chairman Powell".
 
 ### Company Titles
 Use lower case for corporate titles:
@@ -158,22 +159,11 @@ Lower case for descriptive terms:
 
 ## Headlines and Titles
 
-### Title Case
-Capitalise principal words:
-- "The Rise and Fall of Economic Theory"
-- "A New Approach to Climate Policy"
-
-Words typically not capitalised (unless first word):
-- Articles: a, an, the
-- Short prepositions: in, on, at, by, for, to, of
-- Coordinating conjunctions: and, but, or, nor
-
-### Sentence Case
-Capitalise only the first word and proper nouns:
+The Economist uses **sentence case**: capitalise only the first word and proper nouns:
 - "The rise and fall of economic theory"
 - "A new approach to climate policy"
 
-Choose one style and be consistent.
+If the document already uses title case consistently, match it rather than converting — but prefer sentence case for new headings.
 
 ## Religious Terms
 
@@ -207,7 +197,7 @@ If you must use a brand name, capitalise:
 Capitalise:
 - Species names (first term only): *Homo sapiens*
 - Geological periods: The Jurassic period
-- Named laws and theories: The Theory of Relativity (but "the theory of relativity" informally)
+- Named laws and theories: lower case — "the theory of relativity", "Newton's laws of motion"
 
 ### Common Terms
 Lower case for common scientific terms:

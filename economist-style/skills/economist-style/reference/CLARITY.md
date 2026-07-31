@@ -37,7 +37,7 @@ Replace technical jargon and business-speak with plain English.
 | Jargon | Plain English |
 |--------|---------------|
 | utilise | use |
-| optimise | improve |
+| optimise | improve (unless genuine optimisation is meant) |
 | facilitate | help, enable |
 | implement | introduce, start |
 | leverage | use, exploit |
@@ -125,6 +125,8 @@ Ask yourself: "Would I use this word talking to a friend?"
 
 ## Americanisms to Avoid
 
+**Apply only in British-dialect documents.** In a document written in American English, these expressions are fine — match the document.
+
 The Economist flags these American expressions:
 
 | Avoid | Use Instead |
@@ -141,16 +143,16 @@ The Economist flags these American expressions:
 
 ## Inclusive Language
 
-Use gender-neutral terms:
+Prefer gender-neutral terms where natural:
 
 | Avoid | Use Instead |
 |-------|-------------|
-| mankind | humankind, humanity |
 | man-made | artificial, synthetic |
 | manpower | workforce, staff |
-| chairman | chair, chairperson |
 | fireman | firefighter |
 | policeman | police officer |
 | stewardess | flight attendant |
+
+**Note**: The Economist itself retains "chairman" (it dislikes "chair" and "chairperson" for people) and does not ban "mankind". Treat those substitutions as general modern practice, not Economist style — follow the document's existing usage.
 
 Respect individuals' preferred pronouns and avoid stereotyping groups.

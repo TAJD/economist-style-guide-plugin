@@ -41,9 +41,9 @@ Preserve accents on foreign words:
 ## Quotations
 
 ### Direct Quotes
-Use quotation marks for direct speech or text:
-- He said, 'The policy has failed'
-- The report stated that 'growth will slow'
+Use quotation marks for direct speech or text (Economist style is double quotes; match the document):
+- He said, "The policy has failed"
+- The report stated that "growth will slow"
 
 ### Quote Accuracy
 - Never alter quotes without indicating changes
@@ -78,9 +78,10 @@ When quoting a phrase within your sentence:
 - Ensure the quote integrates grammatically
 
 ### Quotes Within Quotes
-Use single quotes within double (American) or double within single (British):
+Use single quotes within double (American) or double within single (standard British):
 - British: 'He said "yes" to that'
 - American: "He said 'yes' to that"
+- The Economist: double quotes primary with single inside, and logical punctuation placement (see PUNCTUATION.md)
 
 ## Lists
 

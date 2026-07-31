@@ -63,22 +63,25 @@ The Economist uses -ise endings (following British convention).
 | travelling | traveling |
 | cancelled | canceled |
 | modelling | modeling |
-| focused | focused |
 | judgement | judgment |
 | grey | gray |
 | cheque | check (payment) |
 | aeroplane | airplane |
 
+Note: "focused" and "judgment" are The Economist's own preferences, though "judgement" is common British usage.
+
 ## Punctuation
 
 ### Quotation Marks
 
-**Use single quotes** for quotations:
+Standard British publishing uses **single quotes** for quotations:
 - 'The prime minister said rates would fall'
 - She described it as 'disappointing'
 
-**Use double quotes** only for quotes within quotes:
+**Double quotes** only for quotes within quotes:
 - He said: 'The minister called it "unprecedented"'
+
+**Note**: The Economist itself uses double quotes with British (logical) punctuation placement — see PUNCTUATION.md. Match whichever convention the document already uses.
 
 ### Punctuation with Quotes
 
@@ -87,11 +90,13 @@ Place punctuation **outside** quotes unless it's part of the quotation:
 - Did he say it was 'impossible'? (question mark outside)
 - He asked, 'What time is it?' (question mark inside - part of quote)
 
-### Oxford Comma
+### Serial (Oxford) Comma
 
-**Use the Oxford comma** (comma before 'and' in lists):
-- The firm operates in London, Paris, and Berlin
-- We need engineers, designers, and project managers
+British practice — and The Economist — **omit** the comma before 'and' in lists:
+- The firm operates in London, Paris and Berlin
+- We need engineers, designers and project managers
+
+Use it only when needed to prevent ambiguity (see PUNCTUATION.md).
 
 ### Em-dashes
 
@@ -121,10 +126,13 @@ No spaces around em-dashes.
 
 ### Date Format
 
-**British format**: day, month, year
-- 1st January 2025
-- 15th March 2024
-- 22nd December 2023
+**The Economist's format**: month, ordinal day, year
+- January 1st 2025
+- on March 15th
+- since April 5th
+
+**Other British usage** (acceptable if the document already uses it):
+- 1 January 2025
 
 **Not American format**:
 - ❌ January 1, 2025
@@ -137,12 +145,12 @@ Use 'st', 'nd', 'rd', 'th' for dates:
 
 ### Numbers
 
-**Spell out one to nine**:
+**Spell out one to ten**:
 - five people
 - three companies
-- nine million
+- ten million
 
-**Use numerals for 10 and above**:
+**Use numerals from 11**:
 - 15 people
 - 127 companies
 - £4.2m
@@ -150,9 +158,9 @@ Use 'st', 'nd', 'rd', 'th' for dates:
 **Exceptions** (always use numerals):
 - Percentages: 5%, 2.5%
 - Money: £5, $3m
-- Ages: 5 years old
+- Ages 11 and above: aged 45 (spell out one to ten: "a five-year-old")
 - Measurements: 5kg, 3km
-- Dates: 5th May
+- Dates: May 5th
 - Times: 5pm, 3:30am
 
 ### Large Numbers
@@ -226,13 +234,15 @@ Use sentence case, not title case:
 
 ### Collective Nouns
 
-British English treats collective nouns as plural when referring to members:
-- The government are divided
-- The team are performing well
-- Manchester United are playing
+The Economist treats companies, governments and parties as **singular**:
+- The government is divided
+- The company is expanding
 
-American English uses singular:
-- ❌ The government is divided (in British context)
+British English often uses the plural when stressing the members, and sports teams usually take it:
+- Manchester United are playing
+- The team are performing well
+
+American English uses the singular throughout.
 
 ## Miscellaneous
 
@@ -292,7 +302,6 @@ American English uses -ize endings:
 | traveling | travelling |
 | canceled | cancelled |
 | modeling | modelling |
-| focused | focussed |
 | judgment | judgement |
 | gray | grey |
 | check | cheque (payment) |

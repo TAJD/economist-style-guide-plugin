@@ -1,6 +1,6 @@
 # Economist Style Guide Plugin for Claude Code
 
-Apply The Economist's editorial standards to your writing - clarity, precision, brevity, and British English conventions.
+Apply The Economist's editorial standards to your writing - clarity, precision, brevity and dialect-aware editing.
 
 ## Features
 
@@ -115,13 +115,14 @@ positively to the new program.
 
 ### After
 ```
-The research team analyzed the data and found sales rose 23% 
-year-on-year. Customers responded positively to the new program.
+The research team analyzed the data and found sales rose 
+[specify: by how much?]. Customers responded positively to 
+the new program.
 ```
 
 ### Changes Made
 1. ✓ Passive → active voice
-2. ✓ "significant increase" → "23% year-on-year" (specific)
+2. ✓ "significant increase" → flagged for a specific figure (the editor asks; it never invents numbers)
 3. ✓ "Many" → deleted (vague quantifier)
 4. ✓ "it was found that there were" → reduced (brevity)
 5. ✓ Dialect preserved: kept "analyzed" and "program" (American English)
@@ -129,7 +130,7 @@ year-on-year. Customers responded positively to the new program.
 ## Plugin Structure
 
 ```
-economist-style-plugin/
+economist-style/
 ├── .claude-plugin/
 │   └── plugin.json              # Plugin metadata
 ├── skills/
@@ -170,6 +171,8 @@ Improvements welcome! Focus areas:
 MIT License - feel free to adapt for your organisation's style guide.
 
 ## Version
+
+1.3.0 - Corrected rules against the official Economist Style Guide (11th edition): number spell-out cutoff (one to ten), date format (January 1st 2025), no serial comma, double quotation marks, co-operate/co-ordinate hyphenation, singular collective nouns, sentence-case headlines; relabelled general inclusive-language guidance that is not Economist doctrine
 
 1.2.0 - Added punctuation, numbers, structure, tone, abbreviations, capitalization, special contexts, gender-neutral language, and sensitivity guidelines
 

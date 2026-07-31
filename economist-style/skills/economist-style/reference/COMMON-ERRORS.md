@@ -277,8 +277,8 @@ Maintain consistency in lists and comparisons:
 - ❌ She enjoys reading, writing, and to travel
 
 **Correct**:
-- ✓ The plan aims to reduce costs, improve efficiency, and boost innovation
-- ✓ She enjoys reading, writing, and travelling
+- ✓ The plan aims to reduce costs, improve efficiency and boost innovation
+- ✓ She enjoys reading, writing and travelling
 
 ## Gender-Neutral Language
 
@@ -298,13 +298,13 @@ Maintain consistency in lists and comparisons:
 
 | Outdated | Preferred |
 |----------|-----------|
-| Chairman | Chair, chairperson |
 | Businessman | Business executive, business owner |
 | Fireman | Firefighter |
 | Policeman | Police officer |
 | Stewardess | Flight attendant |
 | Manpower | Workforce, staff |
-| Mankind | Humanity, humankind |
+
+**Note**: The Economist retains "chairman" (it dislikes "chair"/"chairperson" for people) and permits "mankind" — follow the document's existing usage.
 
 ### Titles and Honorifics
 
@@ -319,6 +319,8 @@ The singular "they" is acceptable for:
 - Non-binary individuals who use they/them pronouns
 
 ## Sensitivity and Inclusive Language
+
+**Note**: This section reflects general modern-media practice, not Economist doctrine. The Economist prizes plain, direct language and resists euphemism; where a substitution below would blur meaning, prefer precision (see General Principles). Match the document's established conventions.
 
 ### People-First Language
 
@@ -336,7 +338,7 @@ Put the person before the condition:
 
 ### Race and Ethnicity
 
-- Capitalise racial and ethnic identities: Black, White, Asian, Latino
+- Capitalisation varies by style: AP capitalises "Black" (not "white"); The Economist lower-cases both "black" and "white". Match the document's existing convention
 - Avoid using "minorities" to mean all non-white people
 - Be specific when possible: "Chinese", "Nigerian", "Mexican" rather than generic "Asian", "African", "Hispanic"
 - Avoid stereotypes and generalisations
@@ -354,7 +356,7 @@ Put the person before the condition:
 | Avoid | Use |
 |-------|-----|
 | Crazy, insane, nuts | [Be specific about behaviour] |
-| Committed suicide | Died by suicide |
+| Committed suicide | Died by suicide (common media guidance; The Economist permits "committed suicide") |
 | Schizophrenic (as adjective) | "A person with schizophrenia" |
 | Mentally ill (noun) | People with mental illness |
 
@@ -375,12 +377,8 @@ Put the person before the condition:
 
 ### Economic Status
 
-| Avoid | Use |
-|-------|-----|
-| The poor | People with low incomes, people in poverty |
-| Underprivileged | Under-resourced |
-| Third-world | Low-income countries, developing economies |
-| Slum | Informal settlement |
+- "Third-world" is dated: prefer "developing countries" or "low-income countries"
+- The Economist writes plainly of "the poor" and "slums" — do not euphemise (precision over euphemism)
 
 ### General Principles
 

@@ -86,7 +86,7 @@ Use transitions to show relationships between ideas:
 | "Interesting developments" | "China launches antitrust probe" |
 
 ### Headline Style
-- Capitalise principal words (title case) or first word only (sentence case)—be consistent
+- Use sentence case (capitalise first word and proper nouns only), as The Economist does; match title case only if the document already uses it consistently
 - Omit full stops at the end
 - Avoid abbreviations readers may not know
 - No exclamation marks

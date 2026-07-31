@@ -89,7 +89,7 @@ These add no meaning and should be deleted.
 ### When to Be Specific
 
 Replace vague time references:
-- "recently" → last month, in Q3, on 15th October
+- "recently" → last month, in Q3, on October 15th
 - "soon" → next week, by March, within 30 days
 - "in the near future" → by year-end, within six months
 
@@ -119,7 +119,7 @@ Replace vague sources:
 
 ### Date Precision
 
-- Use specific dates: "1st January 2025" not "early 2025"
+- Use specific dates: "January 1st 2025" not "early 2025"
 - Be clear about timeframes: "between March and June 2024" not "in spring"
 - Use "last month" only in time-sensitive contexts; otherwise specify
 
