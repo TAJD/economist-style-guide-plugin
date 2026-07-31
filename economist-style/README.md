@@ -137,8 +137,10 @@ economist-style/
 │   └── economist-style/
 │       ├── SKILL.md             # Main skill instructions
 │       └── reference/
+│           ├── ECONOMIST-SIGNATURE.md  # One-page distillation of house style
 │           ├── CLARITY.md       # Passive voice, jargon, complexity
-│           ├── PRECISION.md     # Weasel words & fillers
+│           ├── PRECISION.md     # Weasel words, fillers, clichés
+│           ├── WORDS.md         # A-Z rulings on misused words
 │           ├── DIALECT-CONVENTIONS.md  # British/American conventions
 │           ├── COMMON-ERRORS.md # Frequent mistakes, sensitivity
 │           ├── PUNCTUATION.md   # Commas, dashes, quotation marks
@@ -162,7 +164,7 @@ Improvements welcome! Focus areas:
 
 ## References
 
-- [The Economist Style Guide](https://www.economist.com/styleguide/introduction)
+- *The Economist Style Guide* (12th edition, Profile Books, 2018) — the authoritative source; the Economist's free online style guide has been taken down
 - [Claude Code Documentation](https://code.claude.com/docs)
 - [More about the implementation](https://tom-dickson.com/blog/teaching-claude-economist-style/)
 
@@ -171,6 +173,8 @@ Improvements welcome! Focus areas:
 MIT License - feel free to adapt for your organisation's style guide.
 
 ## Version
+
+1.4.0 - Added ECONOMIST-SIGNATURE.md quick reference (loaded first), WORDS.md A-Z usage rulings, honorifics convention (Mr/Ms + surname after first mention), and a clichés/dead-metaphors check; housekeeping on installation docs
 
 1.3.0 - Corrected rules against the official Economist Style Guide (11th edition): number spell-out cutoff (one to ten), date format (January 1st 2025), no serial comma, double quotation marks, co-operate/co-ordinate hyphenation, singular collective nouns, sentence-case headlines; relabelled general inclusive-language guidance that is not Economist doctrine
 

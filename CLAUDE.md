@@ -18,11 +18,9 @@ economist-editor-plugin/
 │   ├── skills/
 │   │   └── economist-style/
 │   │       ├── SKILL.md          # Main skill (auto-loaded, contains workflow)
-│   │       └── reference/        # Detailed rules (loaded on-demand)
-│   │           ├── CLARITY.md
-│   │           ├── PRECISION.md
-│   │           ├── DIALECT-CONVENTIONS.md
-│   │           └── COMMON-ERRORS.md
+│   │       └── reference/        # 13 detailed rule files (loaded on-demand),
+│   │                             # e.g. ECONOMIST-SIGNATURE.md, CLARITY.md,
+│   │                             # PRECISION.md, WORDS.md, PUNCTUATION.md
 │   └── README.md
 ├── README.md                     # Marketplace README
 └── LICENSE
@@ -35,22 +33,18 @@ economist-editor-plugin/
 3. **Progressive loading**: Main SKILL.md rules apply first; reference files load only when deeper checks are needed
 4. **Dialect detection**: Plugin detects document's existing spelling/punctuation patterns and matches them (does not force British or American)
 
-## Publishing Workflow
+## Publishing
 
-```bash
-# Initialize and push to GitHub
-git init
-git add .
-git commit -m "Initial commit"
-gh repo create economist-style-plugins --public --source=. --push
-```
+Published at https://github.com/TAJD/economist-style-guide-plugin — commit and push to release.
 
 ## User Installation
 
 ```
-/plugin marketplace add USERNAME/economist-style-plugins
+/plugin marketplace add TAJD/economist-style-guide-plugin
 /plugin install economist-style@economist-style-plugins
 ```
+
+(The name after `@` is the marketplace name from `marketplace.json`, not the repo name.)
 
 ## Version Updates
 

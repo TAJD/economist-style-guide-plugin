@@ -174,6 +174,18 @@ The Economist traditionally avoids "I" and uses "we" sparingly, typically only i
 ### Second Person
 Avoid addressing the reader as "you" except in specific contexts (guides, advice columns).
 
+## Referring to People
+
+A distinctive Economist convention:
+
+- **First mention**: full name — "Janet Yellen", "Jerome Powell"
+- **Thereafter**: honorific + surname — "Ms Yellen", "Mr Powell" (never a bare surname for a living person)
+- Use "Ms" unless the person prefers "Mrs" or "Miss"; "Dr" for medical doctors and (sparingly) academics
+- Job descriptions in apposition, lower case: "Jerome Powell, chairman of the Federal Reserve" — not "Chairman Powell"
+- The dead, historical figures and convicted criminals take bare surnames: "Napoleon", "Keynes"
+
+In articles The Economist itself avoids bylines and first person, writing "your correspondent" or "this newspaper" where a self-reference is unavoidable. For general documents, simply avoid "I".
+
 ## Confidence Without Certainty
 
 ### State Your Case

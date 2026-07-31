@@ -29,6 +29,9 @@ The Economist's introduction explicitly prohibits these:
 
 When reviewing text, follow this sequence:
 
+### 0. Load the Signature Rules
+Read `reference/ECONOMIST-SIGNATURE.md` first — a one-page distillation of the rules that make copy recognizably Economist (numbers, dates, commas, quotes, honorifics, headings). Most reviews need only this plus the quick checks below; load the detailed files only when a deeper check is warranted.
+
 ### 1. Detect Document Dialect
 **IMPORTANT**: Before making any suggestions, detect the document's existing spelling dialect:
 - Look for spellings like "colour" vs "color", "organise" vs "organize"
@@ -56,6 +59,7 @@ For detailed precision rules, read `reference/PRECISION.md`
 Quick checks:
 - Identify vague quantifiers ("many", "often", "significant")
 - Flag weasel words and empty fillers
+- Flag clichés and dead metaphors ("game-changer", "perfect storm")
 - Suggest specific numbers or evidence
 - Remove redundant phrases
 
@@ -98,6 +102,7 @@ Quick checks:
 - Avoid excessive adjectives and intensifiers
 - Neutral language on contested issues
 - No preaching or lecturing
+- People: full name on first mention, honorific + surname after ("Ms Yellen")
 
 ### 11. Abbreviations (on-demand)
 If the document contains abbreviations or acronyms, read `reference/ABBREVIATIONS.md`
@@ -107,6 +112,9 @@ If there are capitalisation questions (titles, institutions, geographic terms), 
 
 ### 13. Special Contexts (on-demand)
 For quotations, foreign words, lists, or tables, read `reference/SPECIAL-CONTEXTS.md`
+
+### 14. Word Usage (on-demand)
+For rulings on commonly misused words (aggravate, decimate, refute, unique...), read `reference/WORDS.md`
 
 ## Output Format
 

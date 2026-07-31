@@ -153,3 +153,27 @@ Delete one:
 - general consensus → consensus
 - unexpected surprise → surprise
 - free gift → gift
+
+## Clichés and Dead Metaphors
+
+Orwell's first rule, adopted by the guide's introduction: never use a metaphor, simile or figure of speech you are used to seeing in print. A cliché signals that the writer has stopped thinking; replace it with the plain meaning or a fresh image.
+
+Common offenders:
+
+- at the end of the day → ultimately, or cut
+- game-changer → say what changes
+- level playing field → fair competition
+- low-hanging fruit → the easiest gains
+- move the needle → make a difference (say how much)
+- paradigm shift → a change (say what kind)
+- perfect storm → say which factors coincided
+- silver bullet / holy grail → a simple solution / the ultimate goal
+- sea change / watershed moment → a big change (say what changed)
+- think outside the box → cut; describe the unconventional idea itself
+- tip of the iceberg → say what remains hidden, and how much
+- double-edged sword → say both effects
+- the fact of the matter is → cut
+- last but not least → finally
+- leave no stone unturned → search thoroughly
+
+The test: if the phrase would appear in any company's press release, it is not doing any work in yours.
