@@ -1,5 +1,6 @@
 {
   "name": "economist-style-plugins",
+  "description": "Editorial-style plugins for Claude Code: apply The Economist style guide to your writing",
   "owner": {
     "name": "Tom Dickson"
   },
@@ -7,7 +8,9 @@
     {
       "name": "economist-style",
       "source": "./economist-style",
-      "description": "Apply The Economist style guide - clarity, precision, brevity, dialect-aware. Unofficial; not affiliated with The Economist"
+      "description": "Apply The Economist style guide - clarity, precision, brevity, dialect-aware. Unofficial; not affiliated with The Economist",
+      "category": "writing",
+      "keywords": ["style-guide", "writing", "editing", "proofreading"]
     }
   ]
 }

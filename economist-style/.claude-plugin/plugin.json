@@ -4,5 +4,16 @@
   "version": "1.4.2",
   "author": {
     "name": "Tom Dickson"
-  }
+  },
+  "homepage": "https://tom-dickson.com/blog/teaching-claude-economist-style/",
+  "repository": "https://github.com/TAJD/economist-style-guide-plugin",
+  "license": "MIT",
+  "keywords": [
+    "style-guide",
+    "writing",
+    "editing",
+    "economist",
+    "proofreading",
+    "documentation"
+  ]
 }

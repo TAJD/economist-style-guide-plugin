@@ -1,52 +1,16 @@
 # Economist Style Plugins for Claude Code
 
-Claude Code plugins for applying professional editorial standards to your writing.
+A **Claude Code plugin** (skill) that edits and proofreads your writing the way The Economist's style guide would — clarity, precision and brevity for markdown, documentation, blog posts, READMEs and code comments.
 
 > This is an independent project, not affiliated with or endorsed by The Economist.
 
-## Available Plugins
-
-### economist-style
-
-Applies The Economist style guide principles to written content:
-
-- **Clarity**: Active voice, simple words, direct statements
-- **Precision**: Specific facts over vague claims, weasel word detection
-- **Brevity**: Concise over verbose, redundancy removal
-- **Dialect-aware**: Matches document's existing conventions (British, American, etc.)
-
-Perfect for:
-- Technical documentation
-- Blog posts and articles
-- Marketing copy
-- Code comments and README files
-- Any professional writing
-
-## Installation
+## Install
 
 ```bash
 # In Claude Code
 /plugin marketplace add TAJD/economist-style-guide-plugin
 /plugin install economist-style@economist-style-plugins
 ```
-
-## Usage
-
-The plugin activates automatically when editing text:
-
-```
-Review this document for clarity and precision
-```
-
-Claude will identify issues and suggest improvements following The Economist's editorial standards.
-
-## What It Checks
-
-✓ **Clarity issues**: Passive voice, jargon, complexity  
-✓ **Precision problems**: Weasel words ("many", "significant"), vague claims  
-✓ **Wordiness**: Fillers, redundancies, verbose expressions  
-✓ **Consistency**: Dialect matching, style coherence  
-✓ **Common errors**: Affect/effect, less/fewer, that/which  
 
 ## Example
 
@@ -63,6 +27,33 @@ The analysis found [specify: how many?] issues affecting
 ```
 
 Changes: Active voice, cut filler, flagged vague claims for specifics (the editor asks; it never invents numbers).
+
+## What It Checks
+
+✓ **Clarity issues**: Passive voice, jargon, complexity  
+✓ **Precision problems**: Weasel words ("many", "significant"), vague claims, clichés  
+✓ **Wordiness**: Fillers, redundancies, verbose expressions  
+✓ **Consistency**: Dialect matching, style coherence  
+✓ **House style**: Numbers, dates, punctuation, honorifics, headlines  
+✓ **Common errors**: Affect/effect, less/fewer, that/which  
+
+## Usage
+
+The plugin activates automatically when editing text:
+
+```
+Review this document for clarity and precision
+```
+
+Claude will identify issues and suggest improvements following The Economist's editorial standards.
+
+## Who It's For
+
+- Technical documentation and READMEs
+- Blog posts and articles
+- Marketing copy
+- Code comments and docstrings
+- Any professional writing
 
 ## Features
 
