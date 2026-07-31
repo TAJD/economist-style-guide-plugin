@@ -174,7 +174,7 @@ MIT License - feel free to adapt for your organisation's style guide.
 
 ## Version
 
-1.4.1 - Added Orwell's six elementary rules to SKILL.md (verified against the style guide's introduction); tone guidance kept as paraphrase to avoid reproducing copyrighted text
+1.4.1 - Added Orwell's six elementary rules to SKILL.md (verified against the style guide's introduction)
 
 1.4.0 - Added ECONOMIST-SIGNATURE.md quick reference (loaded first), WORDS.md A-Z usage rulings, honorifics convention (Mr/Ms + surname after first mention), and a clichés/dead-metaphors check; housekeeping on installation docs
 

@@ -27,7 +27,7 @@ The guide's introduction rests on George Orwell's six rules (from "Politics and 
 
 ## Tone: The "Do Nots"
 
-In the spirit of the guide's introduction (paraphrased, not reproduced):
+In the spirit of the guide's introduction:
 
 - **Do not be stuffy**: Use everyday speech, not the language of lawyers or bureaucrats
 - **Do not be hectoring or arrogant**: Those who disagree are not necessarily stupid; persuade with evidence, not assertion
