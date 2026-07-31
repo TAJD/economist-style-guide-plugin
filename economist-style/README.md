@@ -2,6 +2,8 @@
 
 Apply The Economist's editorial standards to your writing - clarity, precision, brevity and dialect-aware editing.
 
+> This is an independent project, not affiliated with or endorsed by The Economist.
+
 ## Features
 
 - **Automatic activation**: Claude applies style guidance when you edit markdown, HTML, or documentation
@@ -173,6 +175,8 @@ Improvements welcome! Focus areas:
 MIT License - feel free to adapt for your organisation's style guide.
 
 ## Version
+
+1.4.2 - Paraphrased the duplicate Orwell quotation in PRECISION.md, replaced source-derived name examples, added non-affiliation disclaimers
 
 1.4.1 - Added Orwell's six elementary rules to SKILL.md (verified against the style guide's introduction)
 

@@ -17,7 +17,7 @@ The compact rules that make copy recognizably Economist. Apply these first; load
 - No serial (Oxford) comma unless needed for clarity: "tax, spending and regulation"
 - Double quotation marks, single inside; punctuation outside quotes unless part of the original
 - No full stops in abbreviations: Mr, Dr, GDP, eg, ie (a comma follows "ie")
-- Initials in names take points: I.M. Pei
+- Initials in names take points: J.K. Rowling
 - Hyphenate co-operate, co-ordinate, pre-war, post-war
 - No exclamation marks; rhetorical questions rarely
 

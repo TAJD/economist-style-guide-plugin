@@ -58,7 +58,7 @@ Do not use full stops in abbreviations:
 | ie | i.e. |
 | eg | e.g. |
 
-**Exceptions**: initials in people's and companies' names take points: "I.M. Pei", "J.C. Penney". A comma follows "ie" ("ie, the largest firms").
+**Exceptions**: initials in people's and companies' names take points: "J.K. Rowling", "L.L. Bean". A comma follows "ie" ("ie, the largest firms").
 
 ### Capitalisation
 - Most abbreviations: All caps (GDP, IMF, EU)

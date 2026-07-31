@@ -7,7 +7,7 @@
     {
       "name": "economist-style",
       "source": "./economist-style",
-      "description": "Apply The Economist style guide - clarity, precision, brevity, dialect-aware"
+      "description": "Apply The Economist style guide - clarity, precision, brevity, dialect-aware. Unofficial; not affiliated with The Economist"
     }
   ]
 }

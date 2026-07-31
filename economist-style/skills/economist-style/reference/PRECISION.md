@@ -156,7 +156,7 @@ Delete one:
 
 ## Clichés and Dead Metaphors
 
-Orwell's first rule, adopted by the guide's introduction: never use a metaphor, simile or figure of speech you are used to seeing in print. A cliché signals that the writer has stopped thinking; replace it with the plain meaning or a fresh image.
+Orwell's first rule: if you are used to seeing a figure of speech in print, don't use it. A cliché signals that the writer has stopped thinking; replace it with the plain meaning or a fresh image.
 
 Common offenders:
 

@@ -2,6 +2,8 @@
 
 Claude Code plugins for applying professional editorial standards to your writing.
 
+> This is an independent project, not affiliated with or endorsed by The Economist.
+
 ## Available Plugins
 
 ### economist-style
