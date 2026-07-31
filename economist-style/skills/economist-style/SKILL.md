@@ -14,16 +14,27 @@ Apply these principles to all written content, including markdown files, HTML, c
 3. **Brevity**: Choose concise over verbose expressions
 4. **Dialect awareness**: Match the document's existing spelling and conventions (British, American, etc.)
 
+## Orwell's Six Elementary Rules
+
+The guide's introduction rests on George Orwell's six rules (from "Politics and the English Language", 1946): clarity of thought first, then say it as simply as possible.
+
+1. Never use a metaphor, simile or other figure of speech which you are used to seeing in print
+2. Never use a long word where a short one will do
+3. If it is possible to cut out a word, always cut it out
+4. Never use the passive where you can use the active
+5. Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent
+6. Break any of these rules sooner than say anything outright barbarous
+
 ## Tone: The "Do Nots"
 
-The Economist's introduction explicitly prohibits these:
+In the spirit of the guide's introduction (paraphrased, not reproduced):
 
 - **Do not be stuffy**: Use everyday speech, not the language of lawyers or bureaucrats
-- **Do not be hectoring or arrogant**: Those who disagree are not necessarily stupid
+- **Do not be hectoring or arrogant**: Those who disagree are not necessarily stupid; persuade with evidence, not assertion
 - **Do not be too pleased with yourself**: Let analysis speak; avoid self-congratulation
 - **Do not be too chatty**: Maintain professional distance
 - **Do not be too didactic**: Guide, don't lecture
-- **Do not be sloppy**: Edit ruthlessly; cut anything superfluous
+- **Get straight in and be lucid**: No throat-clearing openings; edit ruthlessly; cut anything superfluous
 
 ## Analysis Workflow
 
